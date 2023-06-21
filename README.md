@@ -1,3 +1,3 @@
 # CommonGame
 
-Common is Moral task. 
+Common is Moral task.
